@@ -1,4 +1,4 @@
-name: manuscript2021
+name: BluntedDefensiveResponses
 channels:
   - conda-forge
 dependencies:
