@@ -1,4 +1,4 @@
-# Suppression of flight and freezing responses in a simulated foraging environment containing a predator
+# Contextual modulation and blunted defensive responses to predators in head-fixed and freely moving mice
 ![Visualization of the analysis done to compare pupil diameters.](./images/SimulatedForageAnalysis.gif)
 
 ## Abstract
